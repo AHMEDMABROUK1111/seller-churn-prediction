@@ -1,11 +1,11 @@
-# Seller-Churn-Prediction
+###  Seller-Churn-Prediction
 Predicting seller churn on an e-commerce platform
 
 🛒 Seller Churn Prediction — E-Commerce Onboarding Analysis
 
 Predicting which sellers are likely to churn during the onboarding journey on an e-commerce platform, using machine learning.
 
-⚠️ Important Disclaimer
+## ⚠️ Important Disclaimer
 
 > This project uses 100% synthetic (artificially generated) data.
 > No real company data, seller information, or proprietary records have been used.
@@ -14,7 +14,7 @@ Predicting which sellers are likely to churn during the onboarding journey on an
 
 ---
 
-📌 Business Context
+## 📌 Business Context
 
 In e-commerce platforms expanding into emerging markets, **seller acquisition is expensive**. The business generates revenue through seller commissions — meaning every seller who churns represents:
 
@@ -188,8 +188,8 @@ jupyter notebook notebook.ipynb
 
 ## 👤 Author
 
-**Ahmed Ismail**
-Data Science | E-Commerce Operations Specialist
+**Ahmed Ismail** |
+Data Scientist | E-Commerce Operations Specialist
 [LinkedIn](https://www.linkedin.com/in/ahmed-ismail-b81471185/) • [GitHub](https://github.com/AHMEDMABROUK1111)
 
 ---
